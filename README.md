@@ -42,8 +42,7 @@ The game was built using Unity Engine. Play the game from https://bisniskomodo.i
 <br>
 
 ## 👤Developer
-- Nicholas Van Lukman (Game Programmer)
-- Kezia Pricillia Ong (Game Artist)
+- Marvel Yizreel Mandagi (Game Programmer)
 <br>
 
 ## 📂Files description
