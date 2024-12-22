@@ -11,7 +11,7 @@ You are able to do so many stuff in the game like walking, running, building, cr
 |  Script       | Description                                                  |
 | ------------------- | ------------------------------------------------------------ |
 | `PlayerControls.cs` | Responsible for the playermovement using platformer way horizontally |
-| `MainMenu.cs` | Responsible for all the menu like MainMenu, Credit Scene, Tutorial and etc |
+| `SceneManagement.cs` | Responsible for all the menu like MainMenu, Credit Scene, Tutorial and etc |
 | `BallControl.cs`  | Responsible the void below that appear as lava so player dies |
 | `GameManager.cs`  | Responsible for the player to collide with the winning trigger |
 | `etc`  | |
@@ -25,11 +25,11 @@ You are able to do so many stuff in the game like walking, running, building, cr
 
 
 ## 🔴About
-Lightning boy remains as my first simple game, inspired by Super Mario Bros where you gotta jump and avoid obstacle in order to reach to your winning places. I built the player movement system, Climbing System, Healthcontroller and the kill system for the player when falling to lava or touch nearby obstacle. Here's a small portion details about Lightning Boy development presented,
+2D Pong Game is a game i made for introducing myself to unity gamemaking. This game helped me a lot when starting to develop game.
 <br>
 
 ## 🕹️Play Game
-The game was built using Unity Engine. Play the game from https://bisniskomodo.itch.io/lightning-boy. 
+The game was built using Unity Engine. 
 <br>
 
 ## 👤Developer
@@ -66,10 +66,9 @@ The game was built using Unity Engine. Play the game from https://bisniskomodo.i
 
 The following controls are bound in-game, for gameplay and testing.
 
-| Key Binding       | Function          |
-| ----------------- | ----------------- |
-| W,A,S,D           | Standard movement |
-| Space             | Jump           |
-| Space (Hold)             | Jump Dash             |
+| Key Binding           | Function          |
+| --------------------- | ----------------- |
+| W,A,ArrowUp,ArrowDown | Standard movement |
+
 
 <br>
