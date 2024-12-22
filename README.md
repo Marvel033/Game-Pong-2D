@@ -10,9 +10,9 @@ You are able to do so many stuff in the game like walking, running, building, cr
 
 |  Script       | Description                                                  |
 | ------------------- | ------------------------------------------------------------ |
-| `PlayerMovement.cs` | Responsible for the playermovement using platformer way horizontally |
+| `PlayerControls.cs` | Responsible for the playermovement using platformer way horizontally |
 | `MainMenu.cs` | Responsible for all the menu like MainMenu, Credit Scene, Tutorial and etc |
-| `DeathVoid.cs`  | Responsible the void below that appear as lava so player dies |
+| `BallControl.cs`  | Responsible the void below that appear as lava so player dies |
 | `GameManager.cs`  | Responsible for the player to collide with the winning trigger |
 | `etc`  | |
 
