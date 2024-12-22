@@ -6,12 +6,11 @@
 
 ##  📜Scripts and Features
 
-You are able to do so many stuff in the game like walking, running, building, crafting, shooting, hunting, and so much more thanks to tons of scripting has been implemented to the game
-
+You are able to move your racket in this game and also changing scene from Main Menu to the gameplay and changing the scene when a player won
 |  Script       | Description                                                  |
 | ------------------- | ------------------------------------------------------------ |
-| `PlayerControls.cs` | Responsible for the playermovement using platformer way horizontally |
-| `SceneManagement.cs` | Responsible for all the menu like MainMenu, Credit Scene, Tutorial and etc |
+| `PlayerControls.cs` | Responsible for the playermovement using the racket to catch the ball |
+| `SceneManagement.cs` | Responsible for |
 | `BallControl.cs`  | Responsible the void below that appear as lava so player dies |
 | `GameManager.cs`  | Responsible for the player to collide with the winning trigger |
 | `etc`  | |
