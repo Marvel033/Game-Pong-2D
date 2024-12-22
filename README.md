@@ -9,7 +9,7 @@
 You are able to move your racket in this game and also changing scene from Main Menu to the gameplay and changing the scene when a player won
 |  Script       | Description                                                  |
 | ------------------- | ------------------------------------------------------------ |
-| `PlayerControls.cs` | Responsible for the playermovement using the racket to catch the ball |
+| `PlayerControls.cs` | Responsible for player to control the racket |
 | `SceneManagement.cs` | Responsible for changing the scene from Main Menu and quitting the app|
 | `BallControl.cs`  | Responsible the add force on the ball as time goes on |
 | `GameManager.cs`  | Responsible for adding the score for the player and end the game when a player reach the winning score |
