@@ -11,8 +11,8 @@ You are able to move your racket in this game and also changing scene from Main 
 | ------------------- | ------------------------------------------------------------ |
 | `PlayerControls.cs` | Responsible for the playermovement using the racket to catch the ball |
 | `SceneManagement.cs` | Responsible for |
-| `BallControl.cs`  | Responsible the void below that appear as lava so player dies |
-| `GameManager.cs`  | Responsible for the player to collide with the winning trigger |
+| `BallControl.cs`  | Responsible the add force on the ball as time goes on |
+| `GameManager.cs`  | Responsible for adding the score for the player and end the game when a player reach the winning score |
 | `etc`  | |
 
 <br>
