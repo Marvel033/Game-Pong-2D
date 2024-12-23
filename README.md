@@ -24,7 +24,7 @@ You are able to move your racket in this game and also changing scene from Main 
 
 
 ## 🔴About
-2D Pong Game is a game i made for introducing myself to unity gamemaking. This game helped me a lot when starting to develop game.
+2D Pong Game is a game I made for introducing myself to unity gamemaking. It's a classic retro game and one of the first computer game ever created. This game helped me a lot when starting to develop game.
 <br>
 
 ## 🕹️Play Game
